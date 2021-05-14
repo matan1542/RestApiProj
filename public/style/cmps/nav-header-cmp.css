@@ -1,0 +1,67 @@
+.nav-header {
+    display: flex;
+    color: #fff;
+    justify-content: flex-end;
+    text-align: center;
+    box-shadow: 0px 0px 7px black;
+  }
+  .content-container{
+    margin-inline-end: 2rem;
+    width: 50%;
+    display: flex;
+    justify-content:space-between;
+  }
+  .login{
+    display: flex;
+    width: 50%;
+    align-items: center;
+  }
+  .btn-login{
+    cursor: pointer;
+    margin-inline-start:.3rem ;
+    color: rgb(32, 32, 32);
+    border: 2px solid #1a6cb6;
+  }
+  .btn-login:hover{
+    color: #fff;
+    background-color: #1a6cb6;
+    transition:.3s;
+  }
+  .btn-update{
+    cursor: pointer;
+    margin-inline-start:.3rem ;
+    color: rgb(32, 32, 32);
+    border: 2px solid #ffaf03;
+  }
+  .btn-update:hover{
+    color: #fff;
+    background-color: #ffaf03;
+    transition:.3s;
+  }
+  .nav-add-bug{
+    align-self: center;
+  }
+  .compose-bug{
+    color: rgb(32, 32, 32);
+    border: 2px solid #1a6cb6;
+  }
+  .compose-bug:hover{
+    color: #fff;
+    background-color: #1a6cb6;
+    transition:.3s;
+  }
+  .btn-logout{
+    border: 2px solid #eb2f06;
+    margin-inline-start: .5rem;
+  }
+  .btn-logout:hover{
+    background-color: #eb2f06;
+    color: #fff;
+  }
+  
+  .nav-logo-title {
+    font-family: poppins;
+    margin-inline: 2rem;
+    font-size: 0.5rem;
+    padding: 0.3rem;
+  }

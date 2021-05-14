@@ -1,0 +1,21 @@
+
+.bugs-table{
+    margin-top:1rem;
+    border-collapse: collapse;
+    min-width: 600px;
+}
+.bugs-table tr{
+    padding: 10px;
+    border: 1px solid black;
+}
+.bugs-table thead{
+    font-weight: 600;
+}
+.bugs-table td{
+    padding: 10px;
+}
+
+.bugs-container{
+    display:flex;
+    justify-content:center;
+}

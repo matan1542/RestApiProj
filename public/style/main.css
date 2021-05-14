@@ -1,0 +1,11 @@
+@import "./cmps/bugs-list.css";
+@import "./fonts.css";
+@import "./cmps/btns.css";
+@import "./cmps/nav-header-cmp.css";
+@import "./cmps/modal.css";
+@import "./helpers.css";
+
+body {
+    font-family:poppins;
+    margin: 0;
+}

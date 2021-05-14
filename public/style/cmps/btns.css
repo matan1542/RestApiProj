@@ -1,0 +1,22 @@
+
+.btn{
+    padding: .7rem;
+    border-radius:.2rem;
+    background-color:inherit;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+.btn-remove{
+    border: 2px solid #eb2f06;
+}
+.btn-remove:hover{
+    background-color: #eb2f06;
+    color: #fff;
+}
+.btn-submit{
+    border: 2px solid #00a651;
+}
+.btn-submit:hover{
+    background-color: #00a651;
+    color: #fff;
+}

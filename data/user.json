@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "9QPK4",
+    "fullname": "Dudu",
+    "username": "Dudu",
+    "password": "dudu",
+    "isAdmin": false,
+    "updatedAt": 1621004805314,
+    "createdAt": 1621004805314
+  },
+  {
+    "_id": "jsNfL",
+    "fullname": "Matan",
+    "username": "Matan",
+    "password": "matan",
+    "isAdmin": false,
+    "updatedAt": 1621004737982,
+    "createdAt": 1621004737982
+  },
+  {
+    "_id": "Admin",
+    "fullname": "Admin",
+    "username": "Admin",
+    "password": "Admin",
+    "isAdmin": true,
+    "updatedAt": 1620917015437,
+    "createdAt": 1620917015437
+  },
+  {
+    "_id": "9VuUu",
+    "fullname": "mark",
+    "username": "mark",
+    "password": "password",
+    "isAdmin": false,
+    "updatedAt": 1620917015437,
+    "createdAt": 1620917015437
+  },
+  {
+    "_id": "HIjWP",
+    "fullname": "ela",
+    "username": "ela",
+    "password": "password",
+    "isAdmin": false,
+    "updatedAt": 1620916918375,
+    "createdAt": 1620916918375
+  },
+  {
+    "_id": "bUY3o",
+    "fullname": "buffy",
+    "username": "buffy buff",
+    "password": "password",
+    "isAdmin": false,
+    "updatedAt": 1620916636685,
+    "createdAt": 1620916636685
+  },
+  {
+    "_id": "wnD0S",
+    "fullname": "ilai",
+    "username": "jovanni",
+    "password": "password",
+    "isAdmin": false,
+    "updatedAt": 1620912738621,
+    "createdAt": 1620912738621
+  },
+  {
+    "_id": "5n3rL",
+    "fullname": "Nadav Nassi",
+    "username": "TripleN91",
+    "password": "password",
+    "isAdmin": false,
+    "updatedAt": 1620911464419,
+    "createdAt": 1620911464419
+  }
+]
